@@ -15,11 +15,9 @@
 
 ---
 
-### 🌟 مشاريعي المميزة
+### 🌟 مشروعي الأساسي
 
-- **[Azooz IDE](https://github.com/albadyzaldyn111-a11y/AzoozIDE):** بيئة تطوير متكاملة حديثة مبنية باستخدام TypeScript.
-- **[Azooz IDE Desktop](https://github.com/albadyzaldyn111-a11y/AzoozIDE-Desktop):** النسخة المخصصة لسطح المكتب من Azooz IDE، جاهزة للتشغيل والأداء العالي.
-- **[IDE-DES](https://github.com/albadyzaldyn111-a11y/IDE-DES):** تطبيق IDE لسطح المكتب يركز على تجربة المستخدم.
+- **[Azooz IDE Desktop](https://github.com/albadyzaldyn111-a11y/AzoozIDE-Desktop):** النسخة المخصصة لسطح المكتب من Azooz IDE، جاهزة للتشغيل والأداء العالي. بيئة تطوير متكاملة حديثة مصممة لتلبية احتياجات المطورين.
 
 ---
 
