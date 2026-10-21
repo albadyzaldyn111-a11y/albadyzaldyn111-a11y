@@ -1,37 +1,32 @@
-# 👋 مرحباً، أنا عزالدين العبادي
+# عزالدين العبادي | Ezaldyn Al-Abadi
 
-### 🚀 مطور برمجيات وشغوف ببناء أدوات المطورين
+### Software Engineer · Web · Mobile · Backend · Developer Tools
 
-أنا مطور برمجيات متخصص في بناء تطبيقات سطح المكتب والويب. أركز على تقديم حلول برمجية متكاملة وسهلة الاستخدام، مع اهتمام خاص بتطوير بيئات التطوير المتكاملة (IDEs).
+أبني منتجات برمجية عملية تجمع بين تجربة المستخدم، البنية القابلة للتوسع، والتوثيق الواضح. أعمل على تطبيقات الويب والجوال وواجهات البرمجة وأدوات المطورين، مع اهتمام خاص بالحلول العربية وتجارب RTL.
 
----
+I build practical software products across web, mobile, backend systems, and developer tooling. My work focuses on maintainable architecture, clear documentation, security-aware implementation, and polished user experiences.
 
-### 🛠️ مهاراتي التقنية
+## Featured work
 
-- **اللغات:** TypeScript, JavaScript, Python
-- **تطوير سطح المكتب:** Electron, Desktop App Architecture
-- **تطوير الويب:** React, Node.js
-- **الأدوات:** Git, GitHub, VS Code Extension Development
+- [Azoz Software](https://github.com/albadyzaldyn111-a11y/azoz-software) — Arabic software-agency management platform built with PHP and MySQL.
+- [Ezaldyn Portfolio](https://github.com/albadyzaldyn111-a11y/ezaldyn-portfolio) — responsive portfolio and PWA experience built with React and TypeScript.
+- [TV Stream](https://github.com/albadyzaldyn111-a11y/tv-stream) — Flutter, FastAPI, and admin platform for official-source television streaming workflows.
+- [Azooz Store](https://github.com/albadyzaldyn111-a11y/Azooz-STOR) — full-stack digital application-store platform.
+- [UniDocs Backend API](https://github.com/albadyzaldyn111-a11y/unidocs-backend-api) — FastAPI backend with authentication, RBAC, migrations, and tests.
+- [UniDocs Mobile App](https://github.com/albadyzaldyn111-a11y/unidocs-mobile-app) — Flutter client for the UniDocs platform.
+- [NetSpectra](https://github.com/albadyzaldyn111-a11y/netspectra) — Kotlin Android network-usage monitoring prototype.
 
----
+## Technical focus
 
-### 🌟 مشروعي الأساسي
+`PHP` · `MySQL` · `Python` · `FastAPI` · `TypeScript` · `React` · `Flutter` · `Dart` · `Kotlin` · `Android` · `Docker` · `REST APIs` · `GitHub Actions`
 
-- **[Azooz IDE Desktop](https://github.com/albadyzaldyn111-a11y/AzoozIDE-Desktop):** النسخة المخصصة لسطح المكتب من Azooz IDE، جاهزة للتشغيل والأداء العالي. بيئة تطوير متكاملة حديثة مصممة لتلبية احتياجات المطورين.
+## Engineering principles
 
----
+- Security-conscious configuration: secrets stay in environment variables and CI secret stores.
+- Documentation-first delivery: every showcase project explains its purpose, stack, setup, and status.
+- Accessible and responsive interfaces, including Arabic RTL support where relevant.
+- Small, testable changes with reproducible local and CI workflows.
 
-### 📊 إحصائيات GitHub
+## Contact
 
-![إحصائيات عزالدين](https://github-readme-stats.vercel.app/api?username=albadyzaldyn111-a11y&show_icons=true&theme=radical)
-![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=albadyzaldyn111-a11y&layout=compact&theme=radical)
-
----
-
-### 📫 تواصل معي
-
-- **GitHub:** [albadyzaldyn111-a11y](https://github.com/albadyzaldyn111-a11y)
-
----
-
-> "البرمجة ليست مجرد كتابة كود، بل هي فن حل المشكلات."
+For collaboration and software projects, open an issue in the relevant repository or contact me through the links shown on my portfolio.
