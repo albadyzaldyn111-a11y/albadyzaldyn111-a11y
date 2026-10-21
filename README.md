@@ -1,4 +1,4 @@
-# عزالدين العبادي | Ezaldyn Al-Abadi
+# المهندس عزالدين العبادي | Eng. Ezaldyn Al-Abadi
 
 ### Software Engineer · Web · Mobile · Backend · Developer Tools
 
