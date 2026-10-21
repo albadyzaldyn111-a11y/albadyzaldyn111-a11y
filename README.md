@@ -2,31 +2,96 @@
 
 ### Software Engineer · Web · Mobile · Backend · Developer Tools
 
+## الموقع الشخصي والـ Portfolio
+
+**Portfolio** تُكتب بالإنجليزية هكذا: `Portfolio`، وتُنطق تقريبًا: **بورتفوليو**. وهي تعني معرض الأعمال أو الموقع الشخصي الذي يجمع نبذة المبرمج، مهاراته، خدماته، ومشاريعه السابقة.
+
+موقعي الشخصي للمبرمج عزالدين العبادي:
+
+**[زيارة الموقع الشخصي والـ Portfolio](https://ezaldyn.netlify.app/)**
+
+الموقع يعرض نبذة عني، الخدمات التي أقدمها، المهارات التقنية، المشاريع، الخبرات، وطرق التواصل. أما مستودع الكود الخاص به فهو [ezaldyn-portfolio](https://github.com/albadyzaldyn111-a11y/ezaldyn-portfolio).
+
+## نبذة مهنية
+
 أبني منتجات برمجية عملية تجمع بين تجربة المستخدم، البنية القابلة للتوسع، والتوثيق الواضح. أعمل على تطبيقات الويب والجوال وواجهات البرمجة وأدوات المطورين، مع اهتمام خاص بالحلول العربية وتجارب RTL.
 
 I build practical software products across web, mobile, backend systems, and developer tooling. My work focuses on maintainable architecture, clear documentation, security-aware implementation, and polished user experiences.
 
-## Featured work
+## المشاريع المختارة: ماذا تعمل وما فائدتها؟
 
-- [Azoz Software](https://github.com/albadyzaldyn111-a11y/azoz-software) — Arabic software-agency management platform built with PHP and MySQL.
-- [Ezaldyn Portfolio](https://github.com/albadyzaldyn111-a11y/ezaldyn-portfolio) — responsive portfolio and PWA experience built with React and TypeScript.
-- [TV Stream](https://github.com/albadyzaldyn111-a11y/tv-stream) — Flutter, FastAPI, and admin platform for official-source television streaming workflows.
-- [Azooz Store](https://github.com/albadyzaldyn111-a11y/Azooz-STOR) — full-stack digital application-store platform.
-- [UniDocs Backend API](https://github.com/albadyzaldyn111-a11y/unidocs-backend-api) — FastAPI backend with authentication, RBAC, migrations, and tests.
-- [UniDocs Mobile App](https://github.com/albadyzaldyn111-a11y/unidocs-mobile-app) — Flutter client for the UniDocs platform.
-- [NetSpectra](https://github.com/albadyzaldyn111-a11y/netspectra) — Kotlin Android network-usage monitoring prototype.
+### 1. Azoz Software — منصة إدارة وكالة برمجيات
 
-## Technical focus
+[المستودع](https://github.com/albadyzaldyn111-a11y/azoz-software)
+
+منصة عربية لإدارة دورة العمل الكاملة في وكالة البرمجيات. تبدأ من تسجيل العميل وإرسال طلب المشروع، ثم إعداد عرض السعر وقبوله، وبعدها إنشاء المشروع والمهام وتوزيعها على المطورين، ومتابعة المراجعات والتسليمات والدفعات.
+
+**الفائدة:** تساعد الوكالة على جمع العملاء والمشاريع والمهام والملفات والمالية في مكان واحد بدل الاعتماد على رسائل متفرقة وجداول يدوية. كما تُظهر خبرة عملية في PHP وMySQL والأمان ودعم اللغة العربية وواجهات RTL.
+
+### 2. Ezaldyn Portfolio — الموقع الشخصي والـ Portfolio
+
+[الموقع الشخصي](https://ezaldyn.netlify.app/) · [المستودع](https://github.com/albadyzaldyn111-a11y/ezaldyn-portfolio)
+
+موقع شخصي ثنائي اللغة يعرض الهوية المهنية والخدمات والمهارات والمشاريع والخبرات ووسائل التواصل. يدعم التصميم المتجاوب، تجربة الهاتف، الوضع الداكن، PWA، وتجارب الوصول.
+
+**الفائدة:** يمثل الواجهة المهنية أمام العملاء وأصحاب العمل، ويسهل عليهم معرفة تخصصي ومشاهدة نماذج من أعمالي والتواصل معي من مكان واحد.
+
+### 3. TV Stream — منصة مصادر بث رسمية
+
+[المستودع](https://github.com/albadyzaldyn111-a11y/tv-stream)
+
+نظام يتكون من تطبيق Flutter للجوال، وBackend باستخدام FastAPI، ولوحة إدارة للقنوات والمصادر والحالات. يركز المشروع على القنوات التي تملك مصدر مشاهدة رسميًا، ويفصل بين فتح المصدر الرسمي وتشغيل HLS المصرح به.
+
+**الفائدة:** يقدم بنية واضحة لتطبيق إعلامي متعدد الأجزاء، ويوضح كيفية ربط تطبيق الهاتف بواجهة API ولوحة إدارة مع مراعاة الصلاحيات ومصادر المحتوى وحقوق الاستخدام.
+
+### 4. Azooz Store — متجر تطبيقات رقمي
+
+[المستودع](https://github.com/albadyzaldyn111-a11y/Azooz-STOR)
+
+منصة Full Stack لاكتشاف التطبيقات الرقمية والبحث عنها وعرض تفاصيلها وتنظيمها ضمن تصنيفات، مع المفضلة وسجل التنزيلات والتقييمات والإشعارات ولوحة إدارة.
+
+**الفائدة:** يوضح بناء منتج تجاري كامل يبدأ من واجهة المستخدم ويمتد إلى API وقاعدة البيانات والمصادقة والصلاحيات وسجل العمليات، باستخدام React وTypeScript وHono وtRPC وDrizzle وMySQL.
+
+### 5. UniDocs Backend API — نظام خلفي للوثائق الجامعية
+
+[المستودع](https://github.com/albadyzaldyn111-a11y/unidocs-backend-api)
+
+واجهة Backend مبنية باستخدام FastAPI لإدارة منصة UniDocs، وتشمل المصادقة، المستخدمين، الصلاحيات، الخدمات، مخططات البيانات، migrations، والاختبارات.
+
+**الفائدة:** يوضح القدرة على بناء API منظمة وقابلة للتوسع مع فصل منطق العمل عن المسارات، وإدارة قاعدة البيانات، واختبار الوظائف الحساسة مثل الدخول والصلاحيات.
+
+### 6. UniDocs Mobile App — تطبيق الجوال لمنصة UniDocs
+
+[المستودع](https://github.com/albadyzaldyn111-a11y/unidocs-mobile-app)
+
+تطبيق Flutter للجوال يمثل الواجهة المحمولة لمنصة UniDocs، مع شاشات المصادقة والملف الشخصي والمكونات القابلة لإعادة الاستخدام ودعم اللغات والاختبارات.
+
+**الفائدة:** يوضح تحويل نظام Backend إلى تجربة استخدام عملية على الهاتف، وبناء تطبيق منظم يسهل تطويره وربطه بواجهات API مختلفة.
+
+### 7. NetSpectra — مراقبة استهلاك الشبكة
+
+[المستودع](https://github.com/albadyzaldyn111-a11y/netspectra)
+
+تطبيق Android باستخدام Kotlin لمراقبة استهلاك الشبكة والبيانات على مستوى التطبيقات، مع أفكار لحدود البيانات والتنبيهات والتحكم في الاتصال والتقارير.
+
+**الفائدة:** يعرض خبرة في Android APIs وKotlin والتعامل مع صلاحيات الجهاز ومعلومات الاستخدام، مع التركيز على الخصوصية وعدم جمع بيانات الشبكة دون موافقة المستخدم.
+
+### 8. Auto APK Builder Demo — أتمتة بناء تطبيقات Android
+
+[المستودع](https://github.com/albadyzaldyn111-a11y/auto-apk-builder-demo)
+
+مشروع تعليمي صغير يوضح بناء APK تلقائيًا عبر GitHub Actions، ورفع ملفات البناء كـ Artifacts، وإنشاء Release عند دفع Tag بإصدار جديد.
+
+**الفائدة:** يوضح مهارة CI/CD وأتمتة عمليات البناء والنشر، ويقلل العمل اليدوي عند تجهيز إصدارات تطبيقات Android.
+
+## التقنيات الأساسية
 
 `PHP` · `MySQL` · `Python` · `FastAPI` · `TypeScript` · `React` · `Flutter` · `Dart` · `Kotlin` · `Android` · `Docker` · `REST APIs` · `GitHub Actions`
 
-## Engineering principles
+## مبادئ العمل
 
-- Security-conscious configuration: secrets stay in environment variables and CI secret stores.
-- Documentation-first delivery: every showcase project explains its purpose, stack, setup, and status.
-- Accessible and responsive interfaces, including Arabic RTL support where relevant.
-- Small, testable changes with reproducible local and CI workflows.
+أهتم بأن يكون الكود قابلًا للصيانة، وأن تكون الأسرار في متغيرات البيئة وليس داخل المستودعات، وأن يحتوي كل مشروع قابل للعرض على README يشرح الغرض والتقنيات وطريقة التشغيل والحالة الحالية. كما أركز على الواجهات المتجاوبة، دعم العربية وRTL عند الحاجة، والاختبار قبل التسليم.
 
-## Contact
+## التواصل
 
-For collaboration and software projects, open an issue in the relevant repository or contact me through the links shown on my portfolio.
+للتعاون في مشروع برمجي، يمكن زيارة [الموقع الشخصي](https://ezaldyn.netlify.app/) أو فتح Issue في المستودع المناسب على GitHub.
